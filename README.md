@@ -1,2 +1,26 @@
-# Memes-Maker
-MemeMaker is a fun and easy-to-use web application that allows users to create and share custom memes instantly using popular meme templates.
+
+😂 MemeHub
+
+MemeHub is a simple and interactive web application that allows users to create custom memes using popular meme templates. Built with HTML, CSS, JavaScript, and Bootstrap, the app provides a clean UI and dynamic meme generation experience.
+
+🚀 Features
+
+🖼️ Browse meme templates
+
+✏️ Add custom text to memes
+
+⚡ Generate memes instantly
+
+📱 Responsive desig
+
+🎨 Clean and modern UI
+
+🛠️ Tech Stack
+
+HTML5
+
+CSS3
+
+JavaScript 
+
+Bootstrap 5
