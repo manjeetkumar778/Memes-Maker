@@ -30,7 +30,7 @@
 
 .navbar {
   height: 80px;
-   background-color: #49404e !important;
+   background-color: #49404e;
    padding: 2px;
    /* text-align: center; */
 }
@@ -41,3 +41,4 @@
   padding-left: 44%;
   font-family:  'Times New Roman', Times, serif;
 }
+
