@@ -1,7 +1,7 @@
 
 😂 MemeHub
 
-MemeHub is a simple and interactive web application that allows users to create custom memes using popular meme templates. Built with HTML, CSS, JavaScript, and Bootstrap, the app provides a clean UI and dynamic meme generation experience.
+MemeHub is a simple and interactive web application that allows users to create custom memes using popular meme templates. Built with HTML, CSS, JavaScript the app provides a clean UI and dynamic meme generation experience.
 
 🚀 Features
 
@@ -23,4 +23,5 @@ CSS3
 
 JavaScript 
 
-Bootstrap 5
+use imgflip
+link
